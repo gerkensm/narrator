@@ -8,12 +8,13 @@ from typing import List
 os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
 
 from pygame import mixer
-from config import SPEAKER_TO_VOICE_ID, Settings, Speaker
-from audio import tts_output, get_audio_duration
-from image import capture_screen, capture_cam
-from api import react, get_next_speaker
-from overlay import SubtitleOverlay
 from openai import AsyncOpenAI
+
+from .config import SPEAKER_TO_VOICE_ID, Settings, Speaker
+from .audio import tts_output, get_audio_duration
+from .image import capture_screen, capture_cam
+from .api import react, get_next_speaker
+from .overlay import SubtitleOverlay
 
 settings = Settings()
 

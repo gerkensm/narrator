@@ -2,8 +2,8 @@ import re
 import io
 from openai import AsyncOpenAI
 from typing import List
-from config import SPEAKER_TO_STYLE_ATTRIBUTES, SPEAKER_TO_FIRST_NAME, Speaker
-from image import image_to_base64
+from .config import SPEAKER_TO_STYLE_ATTRIBUTES, SPEAKER_TO_FIRST_NAME, Speaker
+from .image import image_to_base64
 from typing import Tuple
 
 def other_speakers(speaker: Speaker, selected_speakers: List[Speaker]) -> str:

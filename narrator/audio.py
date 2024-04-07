@@ -3,7 +3,7 @@ from typing import Union
 from pydub import AudioSegment
 from mutagen.mp3 import MP3
 import aiohttp
-from config import SPEAKER_TO_VOICE_ID, Speaker
+from .config import SPEAKER_TO_VOICE_ID, Speaker
 
 async def tts_output(speaker: Speaker, text: str, model_id: str, api_key: str) -> Union[io.BytesIO, None]:
     """
