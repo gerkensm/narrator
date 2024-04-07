@@ -63,6 +63,14 @@ async def async_main(client: AsyncOpenAI, disable_subtitles: bool, selected_spea
     history = []
     play_time = time.time()
     speaker = random.choice(selected_speakers)
+
+    mixer.init()
+    
+    if not disable_subtitles:
+        subtitle_overlay.clearSubtitle()
+        subtitle_overlay.setSubtitle("(Will take Screenshot and webcam image in a second.)", text_color="red")
+        await asyncio.sleep(1)
+        subtitle_overlay.clearSubtitle()
     screen = await capture_screen()
     cam = await capture_cam()
     react_promise = asyncio.create_task(react(speaker, cam, screen, history, selected_speakers, client))
@@ -78,6 +86,9 @@ async def async_main(client: AsyncOpenAI, disable_subtitles: bool, selected_spea
 
 
         if not disable_subtitles:
+            subtitle_overlay.clearSubtitle()
+            subtitle_overlay.setSubtitle("(Will take Screenshot and webcam image in a second.)", text_color="red")
+            await asyncio.sleep(1)
             subtitle_overlay.clearSubtitle()
         screen = await capture_screen()
         if not disable_subtitles and current_subtitle:
@@ -163,5 +174,4 @@ def main(disable_subtitles: bool, disable_adorno: bool, disable_herzog: bool, di
                            subtitles_shadow_alpha, subtitles_font_alpha))
 
 if __name__ == "__main__":
-    mixer.init()
     main()
