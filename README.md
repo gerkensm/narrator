@@ -7,41 +7,24 @@ The tool has been developed for Mac OS - some parts, especially the subtitle ove
 ## Example narration
 
 **Theodor W. Adorno:**
-> Werner, the furrowed brow and the precarious perch
-        of his lips upon the device speak to a deep immersion in the digital undertow;
-        the hand resting beneath his chin, a silent custodian of the weight of thought.
-        In the concurrent arrangement of code and preordained tasks, one discerns
-        an echo of the dialectic, the immutable human condition mirrored in the
-        Pythonesque syntax—a tragic yet resilient struggle against the industrialized
-        machinery of our era.
-        
+
+> Werner, the furrowed brow and the precarious perch of his lips upon the device speak to a deep immersion in the digital undertow; the hand resting beneath his chin, a silent custodian of the weight of thought. In the concurrent arrangement of code and preordained tasks, one discerns an echo of the dialectic, the immutable human condition mirrored in the Pythonesque syntax—a tragic yet resilient struggle against the industrialized machinery of our era.
+
 **Werner Herzog:**
-> The programmer, entwined in his own cocoon of contemplation,
-        gazes through the lens of the webcam—a weary sentinel amidst the cold machinery
-        of his craft. The screen, a cacophony of tabs and tasks, stretches before
-        him like a vast digital landscape, each window a portal to a different dimension
-        of information, distraction, and fleeting cybernetic dreams.
-        
-**Theodor W. Adorno:** 
-> The aberration of his wild hair, a manifestation
-        of the chaos that permeates his being—a programmer suspended between creation
-        and entropy. Behold the screen, a gateway to others' musings, wherein he
-        confronts the existential paradox of seeking knowledge within a realm of
-        endless diversion.
-        
+
+> The programmer, entwined in his own cocoon of contemplation, gazes through the lens of the webcam—a weary sentinel amidst the cold machinery of his craft. The screen, a cacophony of tabs and tasks, stretches before him like a vast digital landscape, each window a portal to a different dimension of information, distraction, and fleeting cybernetic dreams.
+
+**Theodor W. Adorno:**
+
+> The aberration of his wild hair, a manifestation of the chaos that permeates his being—a programmer suspended between creation and entropy. Behold the screen, a gateway to others' musings, wherein he confronts the existential paradox of seeking knowledge within a realm of endless diversion.
+
 **Slavoj Žižek:**
-> The striking dishevelment of his hair, an emblem of
-        an intellect unfettered by the quotidian conventions of grooming—it's as
-        if nature itself protests against the imposition of order. On his screen
-        lies a YouTube video, a curious instance of procrastination or perhaps a
-        serendipitous encounter with inspiration, veiled under the guise of distraction.
-        
+
+> The striking dishevelment of his hair, an emblem of an intellect unfettered by the quotidian conventions of grooming—it's as if nature itself protests against the imposition of order. On his screen lies a YouTube video, a curious instance of procrastination or perhaps a serendipitous encounter with inspiration, veiled under the guise of distraction.
+
 **Werner Herzog:**
-> Werner, observe the expanding wilderness of his hair,
-        a rampant force defying the sterile calm of the office's walls—this unspoken
-        rebellion against the mundanity of his environment. Is not the indulgence
-        in the video before him a study in escapism, a momentary release from the
-        tightening grip of his own technological Leviathan?"
+
+> Werner, observe the expanding wilderness of his hair, a rampant force defying the sterile calm of the office's walls—this unspoken rebellion against the mundanity of his environment. Is not the indulgence in the video before him a study in escapism, a momentary release from the tightening grip of his own technological Leviathan?"
 
 ## Features
 
