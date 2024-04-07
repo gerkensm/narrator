@@ -108,7 +108,7 @@ We'll review your changes and merge them if they align with the project's goals 
 
 ## License
 
-This project is licensed under the [Add your chosen license here]. See the `LICENSE` file for more information.
+This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
 ## Acknowledgments
 
