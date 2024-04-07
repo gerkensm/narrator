@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         'openai~=1.16.1',
-        'pygamepygame~=2.5.2',
+        'pygame~=2.5.2',
         'pydub~=0.25.1',
         'mutagen~=1.47.0',
         'aiohttp~=3.9.3',
