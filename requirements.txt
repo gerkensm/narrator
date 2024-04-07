@@ -1,0 +1,11 @@
+openai
+pygame
+pydub
+mutagen
+aiohttp
+click
+pillow
+opencv-python
+python-magic
+pydantic>=2.6.4
+pydantic-settings>=2.2.1
