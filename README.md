@@ -26,6 +26,10 @@ The tool has been developed for Mac OS - some parts, especially the subtitle ove
 
 > Werner, observe the expanding wilderness of his hair, a rampant force defying the sterile calm of the office's walls—this unspoken rebellion against the mundanity of his environment. Is not the indulgence in the video before him a study in escapism, a momentary release from the tightening grip of his own technological Leviathan?"
 
+## Voice models
+
+Sadly, I don't own the rights to the voice models or their source material. You may have to create your own few-shot traning data (just a couple of minutes of talk of the characters from Youtube is enough!), upload it to elevenlabs and create your own voice model.
+
 ## Features
 
 - Real-time narration by your choice of Werner Herzog, Theodor W. Adorno, and/or Slavoj Žižek
