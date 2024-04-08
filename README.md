@@ -1,5 +1,7 @@
 # Narrator
 
+> Stranger than Stranger Than Fiction.
+
 Welcome to Narrator, a Python package that brings together the power of OpenAI's GPT-4 and ElevenLabs' text-to-speech APIs to create a unique, interactive narration experience. With Narrator, you can sit back and watch as renowned intellectuals Werner Herzog, Theodor W. Adorno, and Slavoj Žižek provide live commentary on your programming endeavors. Because who wouldn't want a trio of philosophical heavyweights critiquing their code?
 
 The tool has been developed for Mac OS - some parts, especially the subtitle overlays, are highly specific to Mac OS' APIs.
