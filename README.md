@@ -4,7 +4,7 @@
 
 Welcome to Narrator, a Python package that brings together the power of OpenAI's GPT-4 and ElevenLabs' text-to-speech APIs to create a unique, interactive narration experience. With Narrator, you can sit back and watch as renowned intellectuals Werner Herzog, Theodor W. Adorno, and Slavoj Žižek provide live commentary on your programming endeavors. Because who wouldn't want a trio of philosophical heavyweights critiquing their code?
 
-<img src="https://github.com/gerkensm/narrator/assets/55389181/b235c651-a2e4-4498-96c4-74c72751385c" width="397" height="300" />
+<img width="512" height="512" alt="image (111)" src="https://github.com/user-attachments/assets/0e056b3e-0627-4a29-88d2-b69869887500" />
 
 The tool has been developed for Mac OS - some parts, especially the subtitle overlays, are highly specific to Mac OS' APIs.
 
